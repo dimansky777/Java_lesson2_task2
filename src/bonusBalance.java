@@ -1,4 +1,4 @@
-public class bonusBalance {
+public class BonusBalance {
     public static void main(String[] args) {
         int initialBalance = 200;
         int topUpAmount = 1000;
